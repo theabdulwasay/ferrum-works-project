@@ -129,7 +129,8 @@ Staff roster and user lists use the same naming style (Ahmed Khan, Omar Hassan, 
 <img width="1872" height="826" alt="image" src="https://github.com/user-attachments/assets/f10dde92-dec5-4204-b8dc-5e6cca15f88f" />
 <img width="1893" height="830" alt="image" src="https://github.com/user-attachments/assets/d45bb248-6650-4f03-bc6f-290b8af87272" />
 <img width="1889" height="828" alt="image" src="https://github.com/user-attachments/assets/282918e9-0605-4e13-9b23-4a5f79fbd479" />
-![Uploading image.png…]()
+<img width="1886" height="824" alt="image" src="https://github.com/user-attachments/assets/5d721db9-c933-43f4-95d5-da53a2d36392" />
+
 
 
 
