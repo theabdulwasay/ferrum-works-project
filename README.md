@@ -122,3 +122,15 @@ Staff roster and user lists use the same naming style (Ahmed Khan, Omar Hassan, 
 <p align="center">
   <strong>Ferrum Works</strong> · every ton tracked, from melt to dock
 </p>
+
+<img width="1875" height="832" alt="image" src="https://github.com/user-attachments/assets/0c412731-198b-482b-83b4-12535dffc4a2" />
+<img width="1882" height="830" alt="image" src="https://github.com/user-attachments/assets/62a2ed68-d5ce-4c3c-a2d4-
+  9a31db9f9f58" />
+<img width="1872" height="826" alt="image" src="https://github.com/user-attachments/assets/f10dde92-dec5-4204-b8dc-5e6cca15f88f" />
+<img width="1893" height="830" alt="image" src="https://github.com/user-attachments/assets/d45bb248-6650-4f03-bc6f-290b8af87272" />
+<img width="1889" height="828" alt="image" src="https://github.com/user-attachments/assets/282918e9-0605-4e13-9b23-4a5f79fbd479" />
+![Uploading image.png…]()
+
+
+
+
